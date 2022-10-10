@@ -25,7 +25,7 @@ Infelizmente, algumas das palestras não foram possíveis de serem gravada ou ti
 17. As Aplicações da Inteligência Artificial em Robótica
 18. O Uso da Plataforma Arduino para Quantificação de Dados e Monitoração de um Sistema
 19. Cuidado com as Abstraçõs do Arduino
-20. Automação de Sistemas e o Controle de Sistemas a Enventos Discretos
+20. Automação de Sistemas e o Controle de Sistemas a Eventos Discretos
 
 A playlist com as gravações disponíveis estão no canal do Youtube:
 
@@ -223,7 +223,7 @@ Em 2019, Cristiana começou o doutorado na universidade de Birmingham, no labora
 
 <a href="https://www.youtube.com/watch?v=vb5AAs7pO5c" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
-### 20ª Edição - Automação de sistemas e o Controle de sistemas a Eventos Discretos 
+### 20ª Edição - Automação de Sistemas e o Controle de Sistemas a Eventos Discretos 
 
 **Palestrante:** Paulo Eigi Miyagi
 
